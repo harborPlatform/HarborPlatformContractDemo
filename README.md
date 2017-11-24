@@ -29,14 +29,25 @@ download : mac link / window link
 ![](img/CL_HarborPlatform.png "Harbor Platform Contract Structure")
 
 ## Major technical challenges
+*Certificate (License issuance and verification)
+*Pricing Policy and Purchase at ETH price corresponding to USD price
+*Global Privilege Policy
+*Refund process that allows the seller to withdraw money
 
 ### Certificate
 
-![](img/AD_LicenseBuy.png "License buy (Certificate)")
+
+License certificate verification
 
 ![](img/AD_LicenseCheck.png "License Check (Certificate)")
 
 ### Pricing Policy and Purchase at ETH price corresponding to USD price
+
+Purchase Process 
+
+![](img/AD_LicenseBuy.png "License issuance and verification (Certificate)")
+
+Pricing Process
 
 ![](img/CL_GlobalPrice.png "Global Price Policy")
 
