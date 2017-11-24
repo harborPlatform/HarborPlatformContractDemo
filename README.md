@@ -26,14 +26,24 @@ download : mac link / window link
 
 ## Harbor Platform Contract Structure
 
-
+![](img/CL_HarborPlatform.png "Harbor Platform Contract Structure")
 
 ## Major technical challenges
 
 ### Certificate
 
+![](img/AD_LicenseBuy.png "License buy (Certificate)")
+
+![](img/AD_LicenseCheck.png "License Check (Certificate)")
+
 ### Pricing Policy and Purchase at ETH price corresponding to USD price
+
+![](img/CL_GlobalPrice.png "Global Price Policy")
 
 ### Global Privilege Policy
 
+![](img/CL_Connector.png "Harbor Platform Privilege")
+
 ### Refund process that allows the seller to withdraw money
+
+
