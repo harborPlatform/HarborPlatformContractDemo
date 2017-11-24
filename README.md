@@ -57,3 +57,5 @@ Pricing Process
 ### Refund process that allows the seller to withdraw money
 
 
+![](img/chart_refund.png "Refund process")
+
