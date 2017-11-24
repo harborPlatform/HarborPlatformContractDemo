@@ -12,7 +12,7 @@ As a retailing channel for software sales, we provide a Harbor Store and support
 
 #### Harbor Token Whitepaper :link
 
-[![Harbor introduction video](https://img.youtube.com/vi/qTYIwlzJfRs/0.jpg)](https://www.youtube.com/watch?v=qTYIwlzJfRs)
+#### Video(https://www.youtube.com/watch?v=qTYIwlzJfRs)
 
 #### www.toharbor.com
 
