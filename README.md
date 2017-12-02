@@ -56,7 +56,7 @@ Certificate-based data uses the existing Ethernet wallet addressing scheme. It c
 ![](img/AD_LicenseCheck.png "License check (Certificate)")
 
 ### Pricing Policy and Purchase at ETH price corresponding to USD price
-Harbor platform allows you to sell products at the dollar price and pay with the appropriate ether Harbor token is supported after crowdsale).
+Harbor platform allows you to sell products at the dollar price and pay with the appropriate ether.(Harbor token is supported after crowdsale)
 And we support you to set sales prices considering the purchasing power of each region.
 
 - Purchase Process 
