@@ -1,12 +1,12 @@
 # HarborPlatformContractDemo
-Harbor Platform prototype Contract, It is designed to verify and test the capabilities of the port platform.
+Harbor platform prototype contract, it is designed to verify and test the capabilities of the port platform.
 
 
 ## About HarborPlatform
 
-Technically, Harbor provides a library that allows software licenses to be securely managed using a block-chain network and to facilitate in-app billing using cryptocurrency.
+Technically, Harbor platform provides a library that allows software licenses to be securely managed using a blockchain network and to facilitate in-app billing using cryptocurrency.
 Furthermore, we aim to build cross-platform support, easy software sales and a simple in-app payment system.
-As a retailing channel for software sales, we provide a Harbor Store and support various applications using block-chain technology.
+As a retailing channel for software sales, we provide a Harbor Store and support various applications using blockchain technology.
 
 #### Harbor Whitepaper :link
 
@@ -39,21 +39,21 @@ download : mac link / window link
 License certificate verification
 
 Generally, security has two meanings: first, it prevents data from being manipulated; second, it protects sensitive information from exposure.
-Blockchain technology is known to be superior to security Therefore, it is easy to think that the data stored in the blockchain is safe.
+Blockchain technology is known to excel in security Therefore, it is easy to think that the data stored in the blockchain is safe.
 
-Basically, block-chain technology is designed to make data manipulation impossible.
+Basically, blockchain technology is designed to make data manipulation impossible.
 but, it is not designed to protect information from being exposed to the outside world. Rather, the services provided through SmartContract are open to everyone and can be verified to ensure trust.
 
 In smart contract development, solidity has exposure modifiers such as private or public, but it is not designed for complete security of the data (all information is shared by the nodes and may be exposed by private data declared through reversing)
 
-We considered two ways to securely store license information in a block chain.
+We considered two ways to securely store license information in a blockchain.
 1. Storing Encrypted Data
 Encrypted data storage is not easy to implement because blocks do not support encryption, decryption, and verification in the block.
 
 2. Certificate-based data storage (pki)
-Certificate-based data uses the existing Ethernet wallet addressing scheme. It can be issued with a certificate (private-key, public-key) and can be verified in a block chain (ecrecover) with a digital signature.
+Certificate-based data uses the existing Ethernet wallet addressing scheme. It can be issued with a certificate (private key, public key) and can be verified in a blockchain (ecrecover) with a digital signature.
 
-![](img/AD_LicenseCheck.png "License Check (Certificate)")
+![](img/AD_LicenseCheck.png "License check (Certificate)")
 
 ### Pricing Policy and Purchase at ETH price corresponding to USD price
 Harbor platform allows you to sell products at the dollar price and pay with the appropriate ether Harbor token is supported after crowdsale).
