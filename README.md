@@ -19,7 +19,7 @@ As a retailing channel for software sales, we provide a Harbor Store and support
 ## ColorMate
 
 ColorMate is a program that finds an appropriate color set for a given color.
-This is a program provided for testing and verification of the harbor platform, but it is not only a project for testing but also a project for independent improvement.
+This is a program provided for testing and verification of Harbor platform, but it is not only a project for testing but also a project for independent improvement.
 It has limited functionality as a client program and can be tuned off through purchase. In-App support for Wallet account creation, purchasing, certificate issuance and verification, and product integrity verification.
 
 download : mac link / window link
@@ -76,7 +76,7 @@ following approach allows multiple smart contracts (features) to be maintained i
 
 ### Refund process that allows the seller to withdraw money
 It takes complex logic to handle the sale and refund of the product and the seller to withdraw their proceeds.
-The Harbor platform offers refunds to buyers and safe withdrawals to sellers.
+Harbor platform offers refunds to buyers and safe withdrawals to sellers.
 
 
 ![](img/chart_refund.png "Refund process")
