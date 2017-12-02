@@ -38,23 +38,45 @@ download : mac link / window link
 
 License certificate verification
 
+Generally, security has two meanings: first, it prevents data from being manipulated; second, it protects sensitive information from exposure.
+Blockchain technology is known to be superior to security Therefore, it is easy to think that the data stored in the blockchain is safe.
+
+Basically, block-chain technology is designed to make data manipulation impossible.
+but, it is not designed to protect information from being exposed to the outside world. Rather, the services provided through SmartContract are open to everyone and can be verified to ensure trust.
+
+In smart contract development, solidity has exposure modifiers such as private or public, but it is not designed for complete security of the data (all information is shared by the nodes and may be exposed by private data declared through reversing)
+
+We considered two ways to securely store license information in a block chain.
+1. Storing Encrypted Data
+Encrypted data storage is not easy to implement because blocks do not support encryption, decryption, and verification in the block.
+
+2. Certificate-based data storage (pki)
+Certificate-based data uses the existing Ethernet wallet addressing scheme. It can be issued with a certificate (private-key, public-key) and can be verified in a block chain (ecrecover) with a digital signature.
+
 ![](img/AD_LicenseCheck.png "License Check (Certificate)")
 
 ### Pricing Policy and Purchase at ETH price corresponding to USD price
+Harbor platform allows you to sell products at the dollar price and pay with the appropriate ether Harbor token is supported after crowdsale).
+And we support you to set sales prices considering the purchasing power of each region.
 
-Purchase Process 
+- Purchase Process 
 
 ![](img/AD_LicenseBuy.png "License issuance and verification (Certificate)")
 
-Pricing Process
+- Pricing Process
+
 
 ![](img/CL_GlobalPrice.png "Global Price Policy")
 
 ### Global Privilege Policy
+Harbor platform allows one authorization policy contract to be used in multiple smart contracts.
+following approach allows multiple smart contracts (features) to be maintained independently while keeping the entire contract structure simple.
 
 ![](img/CL_Connector.png "Harbor Platform Privilege")
 
 ### Refund process that allows the seller to withdraw money
+It takes complex logic to handle the sale and refund of the product and the seller to withdraw their proceeds.
+The Harbor platform offers refunds to buyers and safe withdrawals to sellers.
 
 
 ![](img/chart_refund.png "Refund process")
