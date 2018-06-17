@@ -22,7 +22,7 @@ ColorMate is a program that finds an appropriate color set for a given color.
 This is a program provided for testing and verification of Harbor platform, but it is not only a project for testing but also a project for independent improvement.
 It has limited functionality as a client program and can be tuned off through purchase. In-App support for Wallet account creation, purchasing, certificate issuance and verification, and product integrity verification.
 
-## download : mac link / window-64Bit [link](https://s3.ap-northeast-2.amazonaws.com/colormate-s3/windows/64/Setup.exe)
+#download : mac link / [window-64Bit](https://s3.ap-northeast-2.amazonaws.com/colormate-s3/windows/64/Setup.exe)
 
 ## Harbor Platform Contract Structure
 
