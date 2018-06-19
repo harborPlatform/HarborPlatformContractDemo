@@ -23,6 +23,7 @@ This is a program provided for testing and verification of Harbor platform, but 
 It has limited functionality as a client program and can be tuned off through purchase. In-App support for Wallet account creation, purchasing, certificate issuance and verification, and product integrity verification.
 
 [manual](https://medium.com/@junghan.kim/harbor-platform-prototype-296ea429d513){:target="_blank"}
+
 # Download : mac link / [window-64Bit](https://github.com/harborPlatform/HarborPlatformContractDemo/raw/master/release/win64/Setup.zip)
 <br />
 <br />
